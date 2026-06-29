@@ -1,0 +1,1 @@
+3-evaluation des performences des modeles a l'aide de metriques appropriees (accuracy,precision, rappel,f1-score,etc.)
