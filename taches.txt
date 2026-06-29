@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 3-evaluation des performences des modeles a l'aide de metriques appropriees (accuracy,precision, rappel,f1-score,etc.)
+=======
+4-optimisation des hyperparametre et amelioration des performences du modéle
+5-deploiement du modéle et intégration dans une application ou une api
+>>>>>>> journalgc2
